@@ -1,6 +1,6 @@
 # SpellingBee
 
-SpellingBee is a custom dictionary of 15,172 entomological terms to improve the spellchecking of entomological manuscripts. Word processor spellcheck functions do not recognize many entomological terms and will incorrectly flag them as spelling errors. Installing SpellingBee will significantly reduce the prevalence of these errors. SpellingBee will not overwrite users' existing custom dictionaries, but supplement them. SpellingBee is compatible with most word processing applications
+SpellingBee is a custom dictionary of 15,202 entomological terms to improve the spellchecking of entomological manuscripts. Word processor spellcheck functions do not recognize many entomological terms and will incorrectly flag them as spelling errors. Installing SpellingBee will significantly reduce the prevalence of these errors. SpellingBee will not overwrite users' existing custom dictionaries, but supplement them. SpellingBee is compatible with most word processing applications
 
 Installation instructions for Microsoft Word
 
