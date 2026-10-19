@@ -1,5 +1,5 @@
 # SpellingBee
-SpellingBee is a custom dictionary of 15,224 entomological terms to improve the spellchecking of entomological manuscripts. Word processor spellcheck functions do not recognize many entomological terms and will incorrectly flag them as spelling errors. Installing SpellingBee will significantly reduce the prevalence of these errors. SpellingBee will not overwrite users' existing custom dictionaries, but supplement them. SpellingBee is compatible with most word processing applications
+SpellingBee is a custom dictionary of 15,445 entomological terms to improve the spellchecking of entomological manuscripts. Word processor spellcheck functions do not recognize many entomological terms and will incorrectly flag them as spelling errors. Installing SpellingBee will significantly reduce the prevalence of these errors. SpellingBee will not overwrite users' existing custom dictionaries, but supplement them. SpellingBee is compatible with most word processing applications
 
 Citations make the world go round! If you use it, please cite it:
 
@@ -70,9 +70,10 @@ Journal of Medical Entomology (n=10)
 **Table 2:** Relative proportion of error types detected while using SpellingBee. 
 - Taxonomic names: 51%
 - Other proper nouns: 32%
-- Abbreviations: 11%Other: 5%
+- Abbreviations: 11%
+- Other: 5%
 - Non-english words: 1%
 - Genuine spelling errors: <1%
 
 ## Acknowledgements
-  Peter Adler, Michael Caterino, Curt Harden
+  Peter Adler, Michael Caterino, Curt Harden, Alex Wenninger
